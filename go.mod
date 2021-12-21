@@ -1,4 +1,4 @@
-module blockchain-go-101
+module github.com/0xkNaN/blockchain-go-1
 
 go 1.15
 

@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"home/hassen/workspaces_blockchain/chain-go-1/blockchain"
+	"github.com/0xkNaN/blockchain-go-1/blockchain"
 )
 
 func main() {
